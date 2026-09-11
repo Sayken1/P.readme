@@ -1,7 +1,6 @@
 \#bhenois
 
 
-
 <!--
 
 \\#git init: inicia o git no repositório
@@ -20,21 +19,23 @@
 
 \\#git checkout/switch + nome: troco de branch
 
-
-
 \\#git switch -c +nome: crio e entro em uma branch
-
-
 
 \\#git switch -d (ou -D) + nome: excluo a branch (-D força a exclusão)
 
-
-
 \\#git branch -M: troco o nome de uma branch
 
-
-
 \\#git merge: junta as duas branchs em uma
+
+\\#git remote add origin + link: conecta seu projeto local ao projeto no GitHub
+
+\\#git push / git push -u origin main: envia commits pro git hub
+
+\\#git pull: busca mudanças e incorpora no seu
+
+\\#git fetch: baixa as informações do GitHub, mas não mistura automaticamente essas alterações com sua branch atual
+
+\\#git clone + link do projeto: clono um projeto
 
 \\#.gitignore: ignora mudanças em arquivos selecionados, não entendi bem como faz pra funcionar
 
@@ -46,4 +47,5 @@
 
 \\#
 
+\\#tem muitas outras mas vou deixar para depois
 
