@@ -6,7 +6,7 @@
 <img src="https://i.pinimg.com/736x/81/9f/24/819f242ade8476ab80b0f256e08f4234.jpg" width="75%">
 </p>
 
-<p align="center"><a https://www.youtube.com/watch?v=dQw4w9WgXcQ>tutorial foda🔥</a>
+### [tutorial foda](https://i.pinimg.com/736x/81/9f/24/819f242ade8476ab80b0f256e08f4234.jpg).
 </p>
 <br>
 <br>
